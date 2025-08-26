@@ -60,6 +60,21 @@ Then open the link Streamlit provides (usually `http://localhost:8501`).
 
 
 ---
+# Decision Boundary ML Playground 🎯
+
+An interactive Streamlit app to explore classifiers like Decision Tree, Random Forest, Logistic Regression, SVM, and KNN.
+
+## 🚀 Features
+- Multiple datasets (moons, circles, blobs, synthetic 3D).
+- Model selection and training.
+- Accuracy + Cross-validation results.
+- Hyperparameter tuning (GridSearchCV).
+- Export/Import trained models with pickle.
+- Visualize decision boundaries (2D + 3D).
+
+## 🛠 Installation
+```bash
+pip install -r requirements.txt
 
 
 ## 🛠 Requirements
