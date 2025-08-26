@@ -1,6 +1,10 @@
 # requirements.txt
+
+
 streamlit
 scikit-learn
 matplotlib
 pandas
 numpy
+seaborn
+plotly
