@@ -15,8 +15,7 @@ Features:
   • Metrics: accuracy, classification report, confusion matrix, optional ROC (binary)
   • Visuals: decision boundary (pick any 2 features), decision tree graph, feature importances
 """
-pip install -U streamlit scikit-learn matplotlib pandas numpy
-streamlit run app.py
+
 
 import io
 import textwrap
