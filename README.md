@@ -1,4 +1,5 @@
 # Decision-Tree-Playground-decision-Boundary-Tree-Graph-Accuracy-
+<img width="686" height="683" alt="image" src="https://github.com/user-attachments/assets/8f3e2b95-2a56-4e3b-9d9d-c327cf62f650" />
 
 # README.md
 
